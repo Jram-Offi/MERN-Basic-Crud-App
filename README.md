@@ -85,7 +85,7 @@ The project relies on the following dependencies:<br>
 -> nodemon: A tool that helps develop Node.js applications by automatically restarting the server when files change.<br>
 
 <h2>Installation</h2>
-To install the project and its dependencies, run:
+To install the project and its dependencies, run:<br>
 **-> npm install**
 
 <h2>Installing commends:</h2>
@@ -103,5 +103,7 @@ Runs a test script (currently returns an error message indicating no tests are s
 <h3>License</h3>
 This project is licensed under the ISC License.
 
+## Author:
+-> Jram :)
 <br><br>
 ----------------------------------------------xxxxxxxxxxxxxxxxxx----------------------------------------------
